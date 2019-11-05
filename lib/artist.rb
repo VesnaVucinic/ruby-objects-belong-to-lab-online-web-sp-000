@@ -5,5 +5,5 @@ class Artist
 end
 
 artist = Artist.new
-artist = "Vi"
+ = "Vi"
 
